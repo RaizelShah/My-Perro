@@ -39,7 +39,7 @@ const Reviews = () => {
           Description="Choosing My Perro was the best decision for my pet's well-being. The knowledgeable staff provided invaluable advice on nutrition and health. The genuine care they exhibit truly makes a difference. My pet and I are loyal customers, grateful for their exceptional service"
         />
         <ReviewCard
-          imgURL="src/assets/Customer4.JPG"
+          imgURL="src/assets/Customer4.jpg"
           Name="Rahul"
           Description="My experience with My Perro has been nothing short of amazing. The team's professionalism and genuine love for animals are evident in every interaction. From grooming to healthcare advice, they've become my trusted partners in ensuring my pet's happiness and health. Highly recommended"
         />

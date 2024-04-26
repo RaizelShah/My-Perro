@@ -26,14 +26,14 @@ const Services = () => {
         />
         <ServiceCard
           title="Dog Bath"
-          imgURL="src/assets/Dog-bath.JPG"
+          imgURL="src/assets/Dog-bath.jpg"
           Description="Dive into a refreshing experience at Suds and Scrubs Splash – a tailored dog bath event. Enjoy a hassle-free grooming session, fostering cleanliness, bonding, and canine well-being."
           w="200"
           h="400"
         />
         <ServiceCard
           title="Dog Check-up"
-          imgURL="src/assets/Dog-Checkup.JPG"
+          imgURL="src/assets/Dog-Checkup.jpg"
           Description="Participate in our Canine Wellness Check, ensuring your pet's health and happiness. Expert veterinarians provide comprehensive check-ups, vaccinations, and advice, promoting a thriving and well-cared-for furry companion."
           w="200"
           h="400"
